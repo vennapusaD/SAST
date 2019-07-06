@@ -78,6 +78,9 @@ public enum NetworkId {
     // Canada
     ONTARIO, QUEBEC, BRITISHCOLUMBIA,
 
+    //Costa RICA
+    CR,
+
     // Australia
     SYDNEY, AUSTRALIA,
 

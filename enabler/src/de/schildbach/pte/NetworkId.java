@@ -67,7 +67,7 @@ public enum NetworkId {
     PL, PLNAVITIA,
 
     // Italy
-    IT,
+    IT, STA,
 
     // United Arab Emirates
     DUB,
